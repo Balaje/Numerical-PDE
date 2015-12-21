@@ -14,7 +14,7 @@ Numerical Methods for PDE
       * Gauss Seidel Iterative Scheme
       * SOR
 
-3. ##Practice## 
+3. ##Practice ## 
       * A summary of all the schemes implemented so far in the course
 
 4. ##Project Code##
