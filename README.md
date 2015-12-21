@@ -15,7 +15,7 @@ Numerical Methods for PDE
       * SOR
 
 3. ##Practice## 
-      A summary of all the schemes implemented so far in the course
+      * A summary of all the schemes implemented so far in the course
 
 4. ##Project Code##
       1. Assignment 1
