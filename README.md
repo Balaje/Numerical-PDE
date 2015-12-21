@@ -25,4 +25,4 @@ Numerical Methods for PDE
       * [Assignment 2](https://drive.google.com/open?id=0B69vp0kOqc0OcWk3ZTVqUkQzWEE)
          * **Fast Fourier Methods to solve Elliptic PDE**
               * FFT : Compares the *Slow Fourier Transform* with the *Cooley Tukey Algorithm*.
-              * Poisson : Implementation of FFT for solving Poisson Equations with Dirichlet and Neumann Boundary Conditions.
+              * Final Code : Implementation of FFT for solving Poisson Equations with Dirichlet and Neumann Boundary Conditions.
