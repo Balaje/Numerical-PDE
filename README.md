@@ -17,7 +17,7 @@ Numerical Methods for PDE
 3. ##Practice 
       * A summary of all the schemes implemented so far in the course
 
-4. ##Project Code (Click on link to view the presentation)##
+4. ##Project Code##
       * [Assignment 1](https://drive.google.com/open?id=0B69vp0kOqc0OcWk3ZTVqUkQzWEE)
          * **Numerics of the viscous Burger's Equation**.
               * Common Schemes like *Backward Euler*, *Godunov*, *Einguist Osher*, *Lax Friedrich* are implemented
