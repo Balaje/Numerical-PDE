@@ -18,7 +18,7 @@ Numerical Methods for PDE
       * A summary of all the schemes implemented so far in the course
 
 4. ##Project Code##
-      * [Assignment 1](
+      * [Assignment 1](https://drive.google.com/open?id=0B69vp0kOqc0OcWk3ZTVqUkQzWEE)
          * **Numerics of the viscous Burger's Equation**.
               * Common Schemes like *Backward Euler*, *Godunov*, *Einguist Osher*, *Lax Friedrich* are implemented
               * Order of Convergence of the Schemes
@@ -29,6 +29,7 @@ Numerical Methods for PDE
 
 5. ##Others##
       * **Numerics of the Korteweg-de-Vries equation**
+      
               * Upwind scheme
               * Backward Euler Scheme
               * Zabusky Kruskal Scheme
