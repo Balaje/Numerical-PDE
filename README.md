@@ -1,6 +1,8 @@
 Numerical Methods for PDE
 =========================
 
+This Repository contains a collection of MATLAB code to implement finite difference schemes to solve partial differential equations. These codes were written as a part of the Numerical Methods for PDE course in BITS Pilani, Goa Campus.
+
 1. Parabolic PDE
       * Method of Lines
       * Forward Euler 
@@ -30,7 +32,7 @@ Numerical Methods for PDE
 5. Others
       * **Numerics of the Korteweg-de-Vries equation**
       
-              - Upwind scheme
-              - Backward Euler Scheme
-              - Zabusky Kruskal Scheme
-              - Crank Nicolson Scheme
+              * Upwind scheme
+              * Backward Euler Scheme
+              * Zabusky Kruskal Scheme
+              * Crank Nicolson Scheme
