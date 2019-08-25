@@ -1,4 +1,4 @@
-[NNumerical-PDE](https://github.com/Balaje/Numerical-PDE/)
+[Numerical-PDE](https://github.com/Balaje/Numerical-PDE/)
 =====================================================================
 
 This Repository contains a collection of MATLAB code to implement finite difference schemes to solve partial differential equations. These codes were written as a part of the Numerical Methods for PDE course in BITS Pilani, Goa Campus.
